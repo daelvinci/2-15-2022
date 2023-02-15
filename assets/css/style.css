@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+#kredit{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:3rem 10rem;
+}
+
+ input{
+width:200px;
+height: 40px;
+}
+#kredit select{
+    width:200px;
+    height: 40px;
+}
+
+#btn{
+    width:160px;
+    height:30px;
+    background-color: brown;
+    position: absolute;
+    top:10rem;
+    left:45.3%;
+}
+
+#output{
+    width:100px;
+    position: absolute;
+    top: 30%;
+    left: 44.4%;
+    
+}
+
